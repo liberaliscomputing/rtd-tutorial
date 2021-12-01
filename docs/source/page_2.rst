@@ -1,7 +1,8 @@
-API
-===
+Header 1
+========
 
 .. autosummary::
    :toctree: generated
 
-   lumache
+
+.. _reference 2:
